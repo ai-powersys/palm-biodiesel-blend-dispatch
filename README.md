@@ -121,10 +121,10 @@ run_summary_*.csv   per-case solver log for each sweep
 An archived snapshot is available on Zenodo. Cite the concept DOI (the
 "all versions" DOI), which always resolves to the latest release:
 
-> DOI: 10.5281/zenodo.XXXXXXX
+> DOI: 10.5281/zenodo.22152398
 
 Development continues at
-https://github.com/USERNAME/palm-biodiesel-blend-dispatch
+https://github.com/ai-powersys/palm-biodiesel-blend-dispatch
 
 `CITATION.cff` holds the machine-readable metadata; add the Zenodo DOI to its
 `doi:` field after the first release.

@@ -20,8 +20,8 @@ authors:
     orcid: "https://orcid.org/0000-0001-7132-8861"
 license: MIT
 version: "1.0.0"
-# date-released: set to the Zenodo release date
-# doi: add the Zenodo DOI after the first release
+date-released: "2026-08-29"
+doi: 10.5281/zenodo.22152398
 keywords:
   - biodiesel blends
   - isolated microgrid
