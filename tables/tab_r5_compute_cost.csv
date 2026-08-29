@@ -1,0 +1,5 @@
+sweep,description,n_cases,n_optimal,n_terminated_early,wall_clock_total_s,wall_clock_mean_s,wall_clock_median_s,wall_clock_max_s,solver,hardware
+main,"main sweep (recourse, 9 blends x 2 bases)",23,23,0,3727.388360261917,162.06036348964858,189.89819192886353,422.9134149551392,"HiGHS (via highspy 1.15.1, linopy 0.8.0)",not recorded (hardware was not logged during the runs)
+mustrun,must-run sensitivity (18 cases),18,18,0,25.9929518699646,1.4440528816647,1.3738361597061157,1.9760918617248535,"HiGHS (via highspy 1.15.1, linopy 0.8.0)",not recorded (hardware was not logged during the runs)
+panel_b,"minimum up/down time sweep, T=2,3 (36 cases)",41,36,5,11131.794425010681,271.5071810978215,259.8352732658386,601.1626460552216,"HiGHS (via highspy 1.15.1, linopy 0.8.0)",not recorded (hardware was not logged during the runs)
+ablation,"stochastic-layer ablation, WS + EEV (36 cases)",36,36,0,657.2381670475006,18.256615751319462,3.3572553396224976,108.66697907447816,"HiGHS (via highspy 1.15.1, linopy 0.8.0)",not recorded (hardware was not logged during the runs)

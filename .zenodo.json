@@ -1,0 +1,31 @@
+{
+  "title": "Palm biodiesel blend dispatch",
+  "description": "Two-stage stochastic unit commitment and economic dispatch for an isolated diesel-photovoltaic-battery microgrid, run separately across nine palm biodiesel blends (B0 to B100) under solar-uncertainty scenarios. Includes the model, input data, sweep scripts, and the scripts that build every table and figure in the associated study. The study is under review; its reference will be added to this record on publication.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Azis, Muhammad Fadli",
+      "orcid": "0000-0001-7711-299X",
+      "affiliation": "Politeknik ATI Makassar"
+    },
+    {
+      "name": "Sidehabi, Sitti Wetenriajeng",
+      "orcid": "0000-0003-1868-831X",
+      "affiliation": "Politeknik ATI Makassar"
+    },
+    {
+      "name": "Massaguni, Massriyady",
+      "orcid": "0000-0001-7132-8861",
+      "affiliation": "Politeknik ATI Makassar"
+    }
+  ],
+  "keywords": [
+    "biodiesel blends",
+    "isolated microgrid",
+    "stochastic unit commitment",
+    "economic dispatch",
+    "PyPSA"
+  ]
+}

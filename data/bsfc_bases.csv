@@ -1,0 +1,10 @@
+blend,pct_b,density_g_per_l,mass_ratio_basis_a,A_x_basis_a_L_per_kWh,volumetric_ratio_basis_b,basis_b_interpolated,basis_b_source,A_x_basis_b_L_per_kWh
+B0,0,853.36,1.0,0.236,1.0,False,R006 measured (QC495 generator),0.236
+B10,10,855.52,1.00822,0.23734,1.00556,False,R006 measured (QC495 generator),0.23731
+B20,20,857.69,1.01651,0.23869,1.01111,False,R006 measured (QC495 generator),0.23862
+B30,30,859.85,1.02487,0.24004,1.03056,False,R006 measured (QC495 generator),0.24321
+B35,35,860.93,1.02908,0.24073,1.03194,True,R006 linear interpolation (inside measured range),0.24354
+B40,40,862.02,1.0333,0.24141,1.03333,True,R006 linear interpolation (inside measured range),0.24387
+B50,50,864.18,1.04179,0.24279,1.03611,False,R006 measured (QC495 generator),0.24452
+B70,70,868.51,1.059,0.24556,1.045,True,R006 linear interpolation (inside measured range),0.24662
+B100,100,875.0,1.08534,0.2498,1.05278,False,R006 measured (QC495 generator),0.24846

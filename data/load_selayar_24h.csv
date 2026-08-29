@@ -1,0 +1,32 @@
+# Selayar Island 24-hour load profile (approximate)
+# Digitised from Figure 1 of Ramadhan et al. (2022), "PV Intermittent Smoothing
+#   with BESS: A Case Study in Selayar Island Electrical Grid", ICPERE 2022,
+#   doi:10.1109/ICPERE56870.2022.10037559.
+# These are values read off a published figure, not the original tabulated data;
+#   expect an error of a few hundred kW per point. Peak 5700 kW at 19:00,
+#   minimum 3600 kW at 07:00. See DATA.md.
+hour,load_kw
+0,4350
+1,4000
+2,3900
+3,3750
+4,3700
+5,3800
+6,3750
+7,3600
+8,3800
+9,3950
+10,4000
+11,4050
+12,4100
+13,4150
+14,4100
+15,4100
+16,4100
+17,4100
+18,4800
+19,5700
+20,5500
+21,5350
+22,5100
+23,4700
