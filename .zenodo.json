@@ -1,6 +1,6 @@
 {
   "title": "Palm biodiesel blend dispatch",
-  "description": "Two-stage stochastic unit commitment and economic dispatch for an isolated diesel-photovoltaic-battery microgrid, run separately across nine palm biodiesel blends (B0 to B100) under solar-uncertainty scenarios. Includes the model, input data, sweep scripts, and the scripts that build every table and figure in the associated study. The study is under review; its reference will be added to this record on publication.",
+  "description": "Two-stage stochastic unit commitment and economic dispatch for an isolated diesel-photovoltaic-battery microgrid, run separately across nine palm biodiesel blends (B0 to B100) under solar-uncertainty scenarios. Includes the model, input data, sweep scripts, and the scripts that build every table and figure in the associated study.",
   "upload_type": "software",
   "license": "MIT",
   "access_right": "open",
